@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masoud1344
 - 👀 I’m interested in ..IOT.
-- 🌱 I’m currently learning ..esp8266.
+- 🌱 I’m currently learning ..esp32
 - 💞️ I’m looking to collaborate on .programing..
 - 📫 How to reach me ..
 
